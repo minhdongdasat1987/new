@@ -131,7 +131,8 @@ Please note that root access is required.
 + **Turn on Location.**
 ### new version 🐸
 ```
-sudo python FARHAN-Shot/File/3FRN.py -i wlan0 -K
+sudo python link-shot.py -i wlan0 -K
+
 ```
 ```
 sudo python FARHAN-Shot/File/FRN.PY -i wlan0 -K
@@ -145,8 +146,8 @@ sudo python FARHAN-Shot/File/oneshot.py -i wlan0 -K
 
 + enjoy 🌕👀
 ## pushed new runner 
-```
-sudo python3 FARHAN-Shot-Modern.py -i wlan0 -K
+```sudo python link-shot.py -i wlan0 -K
+
 ```
 ## Usage examples
 Start Pixie Dust attack on a specified BSSID:
